@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title">Form Information</string>
+    <string name="name">Input Name</string>
+    <string name="email">Input Email</string>
+    <string name="phone">Input Phone Number</string>
+    <string name="submit">Submit</string>
+    <string name="notify">Notify</string>
+</resources>

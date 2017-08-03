@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="email">Nhập Email</string>
+    <string name="name">Nhập tên</string>
+    <string name="phone">Nhập SĐT</string>
+    <string name="title">Mẫu thông tin</string>
+    <string name="submit">Xác nhận</string>
+    <string name="notify">Thông báo</string>
+</resources>
